@@ -1,3 +1,3 @@
-# Android Users Preference toward Applications
+## Overview
 
-This repository contains analysis using a Google Play Store dataset from Kaggle. The aim of this analysis is to get to know the preferences of Android users toward the applications on Google Play Store. Findings reveal that game applications are the most installed application’s category, with a 4.28 average rating acquired. Other than that, 92.4% of users prefer to install unpaid applications.
+Examined the Android users’ preferences on the Google Play Store, revealing that game applications dominate installations with an average rating of 4.28. Additionally, a substantial 92.4% of users opt for free applications, highlighting a strong preference for unpaid offerings.
